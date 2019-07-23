@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "acorn": "^6.2.1"
+  },
+  "name": "ppp",
+  "version": "0.0.1",
+  "description": "javascript Interpreter",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "test": "parcel test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "interpreter",
+    "javascript"
+  ],
+  "author": "onion",
+  "license": "MIT"
+}
