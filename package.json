@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "acorn": "^6.2.1"
+    "acorn": "^6.4.1"
   },
   "name": "ppp",
   "version": "0.0.1",
